@@ -1,0 +1,56 @@
+body {
+    background-color: #c14040;
+    max-width: 80%;
+    margin: 0 auto;
+    font-family: 'Bree Serif', serif;
+    
+}
+
+a { 
+    text-decoration: none; 
+    color: #c14040;
+}
+.pokemon {
+    background-color: #982c2c ;
+    margin: 1rem 0;
+    border-radius: 30px;
+}
+
+.pokenav {
+    background-color: white;
+    border-radius: 15px;
+    align-items: center;
+    color: #c14040;
+    display: flex;
+    justify-content: space-between;
+    max-width: 98%;
+    margin: 0 auto;
+    padding: 1rem;
+}
+
+.poketitle {
+    text-align: start;
+    margin-left: 1rem;
+}
+
+.pokelist {
+    margin-right: 1rem;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.pokelien {
+    display: inline;
+    padding: auto auto;
+    padding-left: 1rem;
+}
+
+.pokeimage {
+    max-width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.poketext>a {
+    color: #f7c0c0;
+}
